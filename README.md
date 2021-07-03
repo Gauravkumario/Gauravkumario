@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauravkumario
+- 👋 Hi, I’m @Gaurav kumar
 - 👀 I’m interested in Web development and python automation testing.
 - 🌱 I’m currently learning Frontend Development and Advance Python programming.
 - 💞️ I’m looking to collaborate on Web projects
