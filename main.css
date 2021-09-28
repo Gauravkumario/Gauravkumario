@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'VT323',monospace;
+	background: ;
+	color: #000000;
+	user-select: none;
+}
+html{
+	box-sizing:border-box;
+	scroll-behavior: smooth;
+}
+/*---------------header-----------*/
+.header{
+	height:5rem;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.header #nav-bar a{
+	text-decoration: none;
+	margin-top: 10px;
+	margin: 15px;
+	padding: 16px;
+	font-size: 18px;
+}
+
+.header #nav-bar a:hover{
+	border-bottom:bolder;
+	border-color: #fc0320;
+}
+/*----------------------f-frame---------------*/
+#f-frame{
+	width: 100%;
+	height: 100vh;
+	font-size: 3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/*-------------------work---------------*/
+#Work{
+	width: 100%;
+	height: auto;
+}
+
+#projects{
+	font-size: 42px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	margin:auto;
+	border-bottom: thick;
+	border-bottom-color:red;
+	border-bottom-width: 15px;
+	width: 80%;
+	padding: 25px 25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	max-height:75px;
+}
+.project-info{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: pink;
+}
+div.s-frame{
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.s-frame > div > a >img{
+	width:400px;
+	height: 400px;
+	margin: 2rem;
+	border:2px solid #000000;
+}
+.responsive{
+	width: 100%;
+	height: auto;
+}
+/*     ------contact-------------*/
+
+
+/*------------------footer---------------*/
+footer{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+footer #profile-link{
+	display: flex;
+	justify-content: center;
+}
+footer #profile-link #logo{
+	margin: 20px 20px 10px 20px;
+}
+footer #credit{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 18px;
+}
+
+/*-------additional -----*/
