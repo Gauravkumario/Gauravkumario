@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkumario&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkumario" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/gkgaurv" target="blank"><img src="https://img.shields.io/twitter/follow/gkgaurv?logo=twitter&style=for-the-badge" alt="gkgaurv" /></a> </p>
 
 - 🔭 I’m currently working on **front end development**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [gk2022.netlify.app](gk2022.netlify.app)
+- 👨‍💻 All of my projects are available at [gk2022.netlify.app](https://gk2022.netlify.app/)
 
 - 📫 How to reach me **gk4458@gmail.com**
 
