@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [gk2022.netlify.com](gk2022.netlify.com)
+- 👨‍💻 All of my projects are available at [gk2022.netlify.com](gk2022.netlify.app)
 
 - 📫 How to reach me **gk4458@gmail.com**
 
