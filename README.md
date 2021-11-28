@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **front end development**
 
-- 🌱 I’m currently learning **Front end**
+- 🌱 I’m currently learning **JavaScript & React**
 
 - 👨‍💻 All of my projects are available at [gk2022.netlify.app](https://gk2022.netlify.app/)
 
