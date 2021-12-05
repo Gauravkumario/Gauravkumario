@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [gk2022.netlify.app](https://gk2022.netlify.app/)
+- 👨‍💻 All of my projects are available at [gk2022.netlify.app](https://gk2022.netlify.app/) //site is underconstruction
 
 - 📫 How to reach me **gk4458@gmail.com**
 
