@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/gkgaurv" target="blank"><img src="https://img.shields.io/twitter/follow/gkgaurv?logo=twitter&style=for-the-badge" alt="gkgaurv" /></a> </p>
 
 - 🔭 I’m currently working on **front end development**
 
@@ -10,6 +9,8 @@
 - 👨‍💻 All of my projects are available at [gk2022.netlify.app](https://gk2022.netlify.app/) //site is underconstruction
 
 - 📫 How to reach me **gk4458@gmail.com**
+
+<p align="left"> <a href="https://twitter.com/gkgaurv" target="blank"><img src="https://img.shields.io/twitter/follow/gkgaurv?logo=twitter&style=for-the-badge" alt="gkgaurv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
