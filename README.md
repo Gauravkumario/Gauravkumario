@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [gauravkr.netlify.app](https://gauravkr.netlify.app/) //site is underconstruction please don't visit
 
-- 📫 How to reach me **gk4458@gmail.com**
+- 📫 How to reach me **gk445891@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/gkgaurv" target="blank"><img src="https://img.shields.io/twitter/follow/gkgaurv?logo=twitter&style=for-the-badge" alt="gkgaurv" /></a> </p>
 
