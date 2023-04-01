@@ -7,11 +7,10 @@ A passionate frontend developer from India
 I’m a mysterious individual who has yet to fill out my bio. One thing’s for certain: I love writing front-end code!
 
 * 🌍  I'm based in Delhi, India
-* 🖥️  See my portfolio at [Gauravkr](http://gauravkr.netlify.app) site is underdevelopment
 * ✉️  You can contact me at [gk445891@gmail.com](mailto:gk445891@gmail.com)
 * 🧠  I'm learning ReactJS, Redux
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  trying to be good programmer
+* ⚡  trying to be better programmer
 
 <a href="https://www.twitter.com/gkgaurv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gkgaurv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
