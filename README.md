@@ -16,6 +16,11 @@ I’m a mysterious individual who has yet to fill out my bio. One thing’s for 
 src="https://img.shields.io/twitter/follow/gkgaurv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Gauravkumario/count.svg" />
+</p>
+
 ### Skills
 
 <p align="left">
